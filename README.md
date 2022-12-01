@@ -1,2 +1,6 @@
 # QA-Testing-Portfolio
  QA and Testing Work Portfolio
+
+Hi there! My name is Femi, I'm a QA Test Specialist.
+
+Here's a little background about me. Coming from a non-technical background which included jobs in real estate management/construction, customer relations, administration and more, I dipped my toes in the waters of software testing in 2012. This happened at a friend's suggestion and referal since I was naturally good at things tech-related all along. I started off as a software tester/analyst at a small company in Texas after going througha software testing bootcamp program. I learnt a lot at this job even though I was mainly executing test cases written by other testers. The real deal for me started after joining Accenture in 2015 and got on a project whose client was the US government (The State of Kansas). The application I had worked on from my previous job was like a toy compared to the applications my team were working on on the Accenture project (no offence). My tenure at Accenture ended with me at a leadership role on the test team. As a result, I now have extensive experience in creating and working with testing documentation (test plans, test scenarios, test cases, documentation and reporting, bug reports). I am well versed in various methods and types of testing. Also, I have experience working with API tools like SOAPUI and POSTMAN.
